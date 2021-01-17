@@ -1,0 +1,18 @@
+using Framework;
+using Framework.UI;
+
+namespace NameSpace
+{
+    public partial class ClassName : UIBase
+    {
+Members        
+        public override AsyncResult CreateTemplate()
+        {
+            Address = "address";
+            var result = CreatUIAsync((obj)=>{
+ctor
+            });
+            return result;
+        }
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "random_float_num_range": {
+        "id": "random_float_num_range",
+        "value": "[5000,10000]"
+    },
+    "random_float_size_range": {
+        "id": "random_float_size_range",
+        "value": "[8,15]"
+    }
+}
